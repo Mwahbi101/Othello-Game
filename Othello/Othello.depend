@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1614156295 source:c:\users\wahbi\desktop\othello\display.c
+
+1613659008 source:c:\users\wahbi\desktop\othello\can_play.c
+
+1613825055 source:c:\users\wahbi\desktop\othello\choice.c
+
+1614076566 source:c:\users\wahbi\desktop\othello\next_player.c
+	<stdio.h>
+
+1613659666 source:c:\users\wahbi\desktop\othello\play.c
+
+1613825859 source:c:\users\wahbi\desktop\othello\game_over.c
+
+1613659163 source:c:\users\wahbi\desktop\othello\init_grille.c
+
+1613825855 source:c:\users\wahbi\desktop\othello\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1613639122 source:c:\users\wahbi\desktop\othello\test.c
+	<stdio.h>
+	<stdlib.h>
+
+1613821414 source:c:\users\wahbi\desktop\othello\test2.c
+	<stdio.h>
+	<stdlib.h>
+
+1613825855 source:c:\users\wahbi\desktop\othello\man machine.c
+
+1613758525 source:c:\users\wahbi\desktop\othello\bj.c
+	<stdio.h>
+	<stdlib.h>
+
+1613824924 source:c:\users\wahbi\desktop\othello\ffff.c
+	<stdio.h>
+	<stdlib.h>
+

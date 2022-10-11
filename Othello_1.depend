@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1614443921 source:c:\users\wahbi\desktop\othello_1\manvsmachine.c
+
+1614410061 source:c:\users\wahbi\desktop\othello_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Les_Outils.h"
+	"manVsmachine.h"
+	"ManVsMan.h"
+	"manVsmachine_AI.h"
+
+1613840713 source:c:\users\wahbi\desktop\othello_1\interface.c
+
+1614443921 source:c:\users\wahbi\desktop\othello_1\les_outils.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1614443921 source:c:\users\wahbi\desktop\othello_1\manvsman.c
+
+1614445017 source:c:\users\wahbi\desktop\othello_1\manvsmachine_ai.c
+	<stdio.h>
+	<stdlib.h>
+
+1614091479 c:\users\wahbi\desktop\othello_1\les_outils.h
+
+1614091547 c:\users\wahbi\desktop\othello_1\manvsmachine.h
+
+1614091604 c:\users\wahbi\desktop\othello_1\manvsman.h
+
+1614249420 c:\users\wahbi\desktop\othello_1\manvsmachine_ai.h
+
+1614440321 source:c:\users\wahbi\desktop\1sig\study\project\othello_1\les_outils.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1614406461 source:c:\users\wahbi\desktop\1sig\study\project\othello_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Les_Outils.h"
+	"manVsmachine.h"
+	"ManVsMan.h"
+	"manVsmachine_AI.h"
+
+1614087879 c:\users\wahbi\desktop\1sig\study\project\othello_1\les_outils.h
+
+1614087947 c:\users\wahbi\desktop\1sig\study\project\othello_1\manvsmachine.h
+
+1614088004 c:\users\wahbi\desktop\1sig\study\project\othello_1\manvsman.h
+
+1614245820 c:\users\wahbi\desktop\1sig\study\project\othello_1\manvsmachine_ai.h
+
+1614440321 source:c:\users\wahbi\desktop\1sig\study\project\othello_1\manvsmachine.c
+
+1614441417 source:c:\users\wahbi\desktop\1sig\study\project\othello_1\manvsmachine_ai.c
+	<stdio.h>
+	<stdlib.h>
+
+1614440321 source:c:\users\wahbi\desktop\1sig\study\project\othello_1\manvsman.c
+
